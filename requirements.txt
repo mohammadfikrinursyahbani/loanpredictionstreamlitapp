@@ -1,2 +1,2 @@
-sklearn=1.2.2
-pip=23.1.2
+sklearn
+pip
