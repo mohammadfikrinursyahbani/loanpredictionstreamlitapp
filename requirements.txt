@@ -1,4 +1,2 @@
-pandas
+
 scikit-learn
-joblib
-xgboost
